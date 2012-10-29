@@ -1,0 +1,7 @@
+[DBG] Debug Log
+Dubeug Log
+[ERR] ERR occurred!
+[MSG] Info string
+[WRN] Hmmmmm...
+[DBG] Closed.
+

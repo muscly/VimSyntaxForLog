@@ -5,7 +5,7 @@ Vim syntax sample for log files
 
 Sanpshot
 =========================
-![log.txt](https://github.com/muscly/VimSyntaxForLog/blob/master/log.txt.png)
+![log.txt](https://raw.github.com/muscly/VimSyntaxForLog/master/log.txt.png)
 
 
 Installation
